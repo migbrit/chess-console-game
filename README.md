@@ -29,18 +29,3 @@ To use the Chess Console Game, follow these instructions:
 ```
 It's easy, just open the console file and have fun!
 ```
-
-## 🤝 Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        ![83079059](https://user-images.githubusercontent.com/83079059/198456270-247d79e0-76e4-46ef-bfec-e72c1df8b7e7.png)
-        <sub>
-          <b>Miguel Brito</b>
-        </sub>
-      </a>
-    </td> 
-  </tr>
-</table>
