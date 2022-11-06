@@ -2,6 +2,8 @@
 
 > This is a Chess Console Game that I created, it has all the features of the classic chess game, including the special plays!
 
+> C#
+
 ## 🚀 Installing Chess Console Game
 
 To install the Chess Console Game, follow these instructions:
